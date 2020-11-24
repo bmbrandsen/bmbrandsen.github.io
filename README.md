@@ -1,10 +1,9 @@
 # bmbrandsen.github.io
 
-## Welcome to GitHub Pages
+## Welcome to the Brandsen Lab
 
-You can use the [editor on GitHub](https://github.com/bmbrandsen/bmbrandsen.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+We use directed evolution to better understand naturally occuring proteins and nucleic acids and to develop new technologies. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
