@@ -1,7 +1,3 @@
-layout: page
-title: "People"
-permalink: /people/
-
 ## Group Members
 
 ### Undergraduate Researchers
