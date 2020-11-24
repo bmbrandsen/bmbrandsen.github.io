@@ -5,7 +5,9 @@
 Ben Brandsen
 
 B.S. Calvin College
+
 Ph.D. University of Illinois at Urbana-Champaign
+
 NIH Postdoctoral Fellow: University of Washington
 
 ### Undergraduate Researchers
