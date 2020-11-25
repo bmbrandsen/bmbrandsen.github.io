@@ -26,5 +26,3 @@ DOI: 10.1021/ja4077233
 DOI: 10.1007/s00214-011-1032-7
 
 1.	R. L. DeKock, L. A. Schipper, S. C. Dykhouse, L. P. Heeringa, B. M. Brandsen, “Ion Pairs or Neutral Molecule Adducts? Cooperativity in Hydrogen Bonding”, J. Chem. Educ. 2009, 86, 1459–1464. DOI: 10.1021/ed086p14
-
-
