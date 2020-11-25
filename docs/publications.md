@@ -1,4 +1,4 @@
-## Publications     [people](people.md)
+## Publications
 
 10.	T. Yao, J. J. Przybyla, P. Yeh, A. M. Woodard, H. J. Nilsson, B. M. Brandsen, S. K. Silverman, "DNAzymes for Amine and Peptide Lysine Acylation", Org. Biomol. Chem. 2020, 18, in press. DOI: 10.1039/D0OB02015J
 
