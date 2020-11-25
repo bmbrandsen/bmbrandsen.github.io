@@ -1,4 +1,4 @@
-## Publications
+## Publications     [people](people.md)
 
 10.	T. Yao, J. J. Przybyla, P. Yeh, A. M. Woodard, H. J. Nilsson, B. M. Brandsen, S. K. Silverman, "DNAzymes for Amine and Peptide Lysine Acylation", Org. Biomol. Chem. 2020, 18, in press. DOI: 10.1039/D0OB02015J
 
@@ -26,3 +26,11 @@ DOI: 10.1021/ja4077233
 DOI: 10.1007/s00214-011-1032-7
 
 1.	R. L. DeKock, L. A. Schipper, S. C. Dykhouse, L. P. Heeringa, B. M. Brandsen, “Ion Pairs or Neutral Molecule Adducts? Cooperativity in Hydrogen Bonding”, J. Chem. Educ. 2009, 86, 1459–1464. DOI: 10.1021/ed086p14
+
+
+[people](people.md)
+
+[research](research.md)
+
+[publications](publications.md)
+
